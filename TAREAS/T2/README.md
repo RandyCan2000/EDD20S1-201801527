@@ -1,4 +1,4 @@
-### Usuario : 
+### Usuarios : 
 ##### Tipo de dato el cual contiene informacion como id, usuario , contraseña y rol
 
 ### Descripcion:
@@ -14,7 +14,7 @@
 ##### *  ObtenerRol() Devuelve(Binario)
     Efecto: Retorna la contraseña ingresada por el usuario.
 
-### Moneda : 
+### Monedas : 
 ##### Tipo de dato el cual contiene informacion como id de la moneda, Nombre de la moneda, Cantidad de monedas y fecha de creacion.
 
 ### Descripcion: 

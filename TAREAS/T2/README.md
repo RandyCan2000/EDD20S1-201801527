@@ -1,3 +1,11 @@
+USUARIOS QUEMADOS
+ADMINISTRADOR PARA CREAR MONEDAS
+USUARIO:ADMIN_EDD
+CONTRASEÑA:EDD
+USUARIO NORMAL
+USUARIO:EDD
+CONTRASEÑA:EDD
+
 ### Usuarios : 
 ##### Tipo de dato el cual contiene informacion como id, usuario , contraseña y rol
 
